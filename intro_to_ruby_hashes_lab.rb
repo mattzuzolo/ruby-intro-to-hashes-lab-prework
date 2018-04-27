@@ -20,8 +20,11 @@ def monopoly
 	                        :one_piece_owned => 25
 	                        :two_piece_owned => 25
 	                        :three_piece_owned => 25
-	                      
+	                        :four_piece_owned => 25
 	                      }#ends rent in dollars hash
+	                      
+	                      
+	                      
 	                } #ends railroads hash
 	
 	  
