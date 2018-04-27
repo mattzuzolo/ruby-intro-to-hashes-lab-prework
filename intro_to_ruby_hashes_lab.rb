@@ -18,8 +18,8 @@ def monopoly
 	                    :names => {},
 	                    :rent_in_dollars => {
 	                        :one_piece_owned => 25
-	                        :one_piece_owned => 25
-	                        :one_piece_owned => 25
+	                        :two_piece_owned => 25
+	                        :three_piece_owned => 25
 	                      
 	                      }#ends rent in dollars hash
 	                } #ends railroads hash
