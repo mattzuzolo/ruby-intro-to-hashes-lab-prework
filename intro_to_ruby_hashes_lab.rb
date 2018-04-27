@@ -17,11 +17,17 @@ def monopoly
 	                    :pieces => 4,
 	                    :names => {
 	                        :reading_railroad => {
-	                            "mortage_value"
+	                            "mortage_value" => "$100"
 	                        },
-	                        :pennsylvania_railroad => {},
-	                        :b_and_o_railroad => {},
-	                        :shortline => {}
+	                        :pennsylvania_railroad => {
+	                            "mortage_value" => "200"
+	                        },
+	                        :b_and_o_railroad => {
+	                            "mortage_value" => "400"
+	                        },
+	                        :shortline => {
+	                            "mortage_value" => "$100"
+	                        }
 	                      
 	                    }, #end names hash
 	                    :rent_in_dollars => {
