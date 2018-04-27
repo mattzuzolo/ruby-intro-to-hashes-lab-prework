@@ -17,7 +17,7 @@ def monopoly
 	                    :pieces => 4,
 	                    :names => {
 	                        :reading_railroad => {
-	                            ""
+	                            "mortage_value"
 	                        },
 	                        :pennsylvania_railroad => {},
 	                        :b_and_o_railroad => {},
